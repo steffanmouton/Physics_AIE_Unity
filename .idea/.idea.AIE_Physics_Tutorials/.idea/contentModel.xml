@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\s188045\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\s188045\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_AIE_Physics_Tutorials.1126669859.00" t="ExcludeRecursive" />
+    <e p="C:\Users\s188045\Documents\Unity2020\AIE_Physics_Tutorials" t="IncludeRecursive">
+      <e p="AIE_Physics_Tutorials.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="CannonballBehaviour.cs" t="Include" />
+        <e p="PhysicsObjectBehaviour.cs" t="Include" />
+        <e p="PlayerBehaviour.cs" t="Include" />
+        <e p="RagdollBehaviour.cs" t="Include" />
+        <e p="RagdollTriggerBehaviour.cs" t="Include" />
+        <e p="RaycasterBehaviour.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="LiquidParticle.cs" t="Include" />
+          <e p="ParticleGenerator.cs" t="Include" />
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="Metaballs_Multiple.shader" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
