@@ -1,4 +1,4 @@
-# AIE Physics Tutorials
+# Unity Physics Demos
 Steffan Mouton
 
 Created for: AIE Physics Assessment - 7 January 2020
