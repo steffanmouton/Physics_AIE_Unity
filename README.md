@@ -19,9 +19,9 @@ There is background music present throughout the application. You can adjust its
 
 Some of the demos contain a small amount of interactivity to demonstrate input and physics.
 
-| Where applicable: |
-| ----------- |
-| WASD to move. |
-| Spacebar to Fire. |
-| Mouse pointer to aim. |
-| Left click to fire. |
+| Controls | Demos in which the control is used |
+| ----------- | -------- |
+| WASD to move | Player Controller |
+| Spacebar to Fire | Cannonball to Wall, Collision Shape Hieararchies |
+| Mouse pointer to aim | Raycasting, FUN |
+| Left click to fire | FUN |
