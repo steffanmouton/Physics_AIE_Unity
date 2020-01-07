@@ -4,5 +4,44 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/S00.LevelSelect.unity
+    guid: 504cbc54658e7fe4f914b0700094f331
+  - enabled: 1
+    path: Assets/_Scenes/S01.FallingSphere.unity
+    guid: 3293e107c840a0b4380896cdef6ee3ef
+  - enabled: 1
+    path: Assets/_Scenes/S02.CollisionShapeHierarchies.unity
+    guid: c9c4fb0b361b85245bedc4a0d787ca6f
+  - enabled: 1
+    path: Assets/_Scenes/S03.TerrainCollision.unity
+    guid: 1a23a1c7c4da0e540b8c38a25986b730
+  - enabled: 1
+    path: Assets/_Scenes/S04.CannonballToWall.unity
+    guid: d6a6545af453ccc409b77cdba30e9087
+  - enabled: 1
+    path: Assets/_Scenes/S05.ClothSim.unity
+    guid: 3181512ada76ab344b7e0c7b19f8d360
+  - enabled: 1
+    path: Assets/_Scenes/S06.PlayerController.unity
+    guid: 43358d615df9f0b428a0f99393f76bc0
+  - enabled: 1
+    path: Assets/_Scenes/S07.Ragdoll.unity
+    guid: 5060a1da9c7b5f14aa951b1fdaddb822
+  - enabled: 1
+    path: Assets/_Scenes/S08.MotorAndImpulse.unity
+    guid: 92226861b1e08dc41994ab318828aac4
+  - enabled: 1
+    path: Assets/_Scenes/S09.MakeACar.unity
+    guid: 9bf7c7872ebfa10429d6e493fb0df565
+  - enabled: 1
+    path: Assets/_Scenes/S10.RayCasting.unity
+    guid: 5c3c6c6641a9ef34a84859d60f226eff
+  - enabled: 1
+    path: Assets/_Scenes/S11.FluidDynamics.unity
+    guid: 17a76956cc37cc5418c5d69d2722b046
+  - enabled: 1
+    path: Assets/_Scenes/S12.FUNinthecity.unity
+    guid: 35299a6a99d6dfe4bb709527ba95aab0
   m_configObjects: {}
